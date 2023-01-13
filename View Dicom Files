@@ -1,0 +1,16 @@
+There are a few web-based tools and applications that can be used to view DICOM files, which are a type of medical image file format.
+
+Orthanc, an open-source DICOM server, provides a web-based viewer for DICOM images. It can be installed on a local machine and accessed through a web browser.
+
+There are a few web-based DICOM viewers such as "MedDream" and "DICOMweb viewer" which are hosted online and you can use them by just visiting their website and upload your file.
+
+RadiAnt DICOM Viewer is a free, open-source DICOM viewer that can be downloaded and installed on a local machine. It supports Windows, macOS, and Linux and has a user-friendly interface that allows you to view and manipulate DICOM images.
+
+Other popular DICOM viewers include Osirix, MicroDicom, and Ginkgo CADx.
+
+You can also use the python library "pydicom" to view DICOM images in jupyter notebook, it will allow you to read and display the images using python.
+
+The best application to view DICOM images depends on your specific needs and preferences. Orthanc and the web-based DICOM viewers are a good option if you need to view DICOM images remotely, while the local DICOM viewers like RadiAnt DICOM Viewer and Osirix are a good option if you need more advanced features and control over the images.
+
+
+
